@@ -58,7 +58,7 @@ namespace Repository
                 var owner = await FindByCondition(o => o.Id.Equals(ownerId)).SingleAsync();
                 var ownerExtended = new OwnerExtended(owner)
                 {
-                    Accounts = RepositoryContext.Accounts.Where(a => a.OwnerId == ownerId)
+                    Accounts = RepositoryContext.Accounts.Where(o => o.OwnerId == ownerId)
                 };
                 return ownerExtended;
             }

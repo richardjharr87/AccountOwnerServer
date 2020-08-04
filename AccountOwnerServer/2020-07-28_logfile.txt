@@ -1,0 +1,8 @@
+2020-07-28 16:26:30.4709 INFO Returned all owners from database.
+2020-07-28 16:55:35.7026 INFO Returned all owners from database.
+2020-07-28 17:13:45.6546 INFO Returned all owners from database.
+2020-07-28 17:13:54.6085 INFO Returned all owners from database.
+2020-07-28 17:13:58.4665 INFO Returned all owners from database.
+2020-07-28 17:14:06.8635 INFO Returned all owners from database.
+2020-07-28 17:14:22.6481 INFO Returned all owners from database.
+2020-07-28 17:15:24.7257 INFO Returned all owners from database.
